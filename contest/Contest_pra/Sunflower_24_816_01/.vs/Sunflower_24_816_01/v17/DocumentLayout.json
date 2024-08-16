@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|solutionrelative:Sunflower_24_816_01\\core.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\Sunflower.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|solutionrelative:Sunflower_24_816_01\\Sunflower.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D72D85B-5D10-450B-A2F0-2810DF23687C}|Sunflower_24_816_01\\Sunflower_24_816_01.vcxproj|solutionrelative:Sunflower_24_816_01\\core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "core.c",
+              "DocumentMoniker": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.c",
+              "RelativeDocumentMoniker": "Sunflower_24_816_01\\core.c",
+              "ToolTip": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.c",
+              "RelativeToolTip": "Sunflower_24_816_01\\core.c",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T09:20:21.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "core.h",
+              "DocumentMoniker": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.h",
+              "RelativeDocumentMoniker": "Sunflower_24_816_01\\core.h",
+              "ToolTip": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\core.h",
+              "RelativeToolTip": "Sunflower_24_816_01\\core.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T09:19:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sunflower.c",
+              "DocumentMoniker": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\Sunflower.c",
+              "RelativeDocumentMoniker": "Sunflower_24_816_01\\Sunflower.c",
+              "ToolTip": "E:\\Code\\2024\\Exe\\Sunflower_24_816_01\\Sunflower_24_816_01\\Sunflower.c",
+              "RelativeToolTip": "Sunflower_24_816_01\\Sunflower.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T08:59:04.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
