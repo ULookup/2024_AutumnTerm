@@ -1,0 +1,6 @@
+﻿  Seqlist.c
+E:\Code\2024\Exe\SeqList\SeqList\Seqlist.c(86,4): warning C4098: “SLFind”:“void”函数返回值
+E:\Code\2024\Exe\SeqList\SeqList\Seqlist.c(88,2): warning C4098: “SLFind”:“void”函数返回值
+  Test.c
+  正在生成代码...
+  SeqList.vcxproj -> E:\Code\2024\Exe\SeqList\x64\Debug\SeqList.exe
